@@ -11,7 +11,7 @@ A lightweight setup for running load tests on your APIs using [k6](https://k6.io
 brew install k6
 
 For other platforms, see the official installation guide:
-👉 https://k6.io/docs/getting-started/installation/
+👉 https://grafana.com/docs/k6/latest/set-up/install-k6/
 ```
 
 ### 🚀 Getting Started
